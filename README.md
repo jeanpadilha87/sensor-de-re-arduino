@@ -25,4 +25,4 @@ Piezo (buzzer)
 Protoboard
 Fios jumper
 
-O código-fonte do projeto está disponível neste repositório, no arquivo `sensor_de_re.ino`.
+O código-fonte do projeto está disponível neste repositório, no arquivo `SensorJean.ino`.
